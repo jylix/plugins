@@ -1,2 +1,1 @@
-# plugins
-Fargo's plugins
+<h1 align="center">Zotera Community Plugins</h1>
